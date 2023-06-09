@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/1024x1024bb.png</file>
+        <file>icons/i.webp</file>
+        <file>icons/png-clipart-computer-icons-icon-design-iconfinder-save-icon-miscellaneous-saving.png</file>
+        <file>icons/png-clipart-computer-icons-shopping-list-others-angle-text.png</file>
+        <file>icons/png-transparent-green-and-white-icon-grass-symbol-green-apps-dialog-add-flag-canada-rectangle.png</file>
+    </qresource>
+</RCC>
